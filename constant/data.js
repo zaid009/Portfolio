@@ -9,7 +9,7 @@ import img07 from "../img/img-07.png";
 import img08 from "../img/img-08.png";
 import img09 from "../img/img-09.png";
 import img10 from "../img/img-10.png";
-import img10 from "../img/img-11.jpg";
+import img11 from "../img/img-11.jpg";
 import fig01 from "../img/figma-01.png";
 import fig02 from "../img/figma-02.png";
 import fig03 from "../img/figma-03.jpeg";
@@ -21,7 +21,7 @@ const data = [
   { id: 1, category: "Services", title: "Events Website", desc: "Hygiene Music and Arts Festival 2025.", icon: img01, link: "https://hygienemusicandartsfestival.org/"},
   { id: 2, category: "Services", title: "Accounting Website", desc: "Kaven Financial and Accounting.", icon: img02, link: "https://kavenfinancialservices.com/"},
   { id: 3, category: "Services", title: "Barber Website", desc: "ATM Barbers.", icon: img03, link: "https://atmbarbers.com/"},
-  { id: 14, category: "Services", title: "Digital Agency", desc: "XenTech Solutions", icon: img04, link: "https://i.postimg.cc/Gm2kb9P9/Xentech-LP.jpg"},
+  { id: 14, category: "Services", title: "Digital Agency", desc: "XenTech Solutions", icon: img11, link: "https://i.postimg.cc/Gm2kb9P9/Xentech-LP.jpg"},
   { id: 13, category: "Services", title: "Finance Website", desc: "XenTech Financials", icon: img04, link: "https://xentechfinancials.com/"},
 
   // Restaurant
