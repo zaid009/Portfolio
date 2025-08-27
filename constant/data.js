@@ -21,7 +21,7 @@ const data = [
   { id: 1, category: "Services", title: "Events Website", desc: "Hygiene Music and Arts Festival 2025.", icon: img01, link: "https://hygienemusicandartsfestival.org/"},
   { id: 2, category: "Services", title: "Accounting Website", desc: "Kaven Financial and Accounting.", icon: img02, link: "https://kavenfinancialservices.com/"},
   { id: 3, category: "Services", title: "Barber Website", desc: "ATM Barbers.", icon: img03, link: "https://atmbarbers.com/"},
-  { id: 14, category: "Services", title: "Digital Agency", desc: "XenTech Solutions", icon: img11, link: "https://i.postimg.cc/Gm2kb9P9/Xentech-LP.jpg"},
+  { id: 14, category: "Services", title: "Digital Agency", desc: "XenTech Solutions", icon: img11, link: "https://postimg.cc/kB0VcJpd"},
   { id: 13, category: "Services", title: "Finance Website", desc: "XenTech Financials", icon: img04, link: "https://xentechfinancials.com/"},
 
   // Restaurant
