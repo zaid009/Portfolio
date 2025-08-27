@@ -9,9 +9,11 @@ import img07 from "../img/img-07.png";
 import img08 from "../img/img-08.png";
 import img09 from "../img/img-09.png";
 import img10 from "../img/img-10.png";
+import img10 from "../img/img-11.jpg";
 import fig01 from "../img/figma-01.png";
 import fig02 from "../img/figma-02.png";
 import fig03 from "../img/figma-03.jpeg";
+
 
 // constant/data.js
 const data = [
