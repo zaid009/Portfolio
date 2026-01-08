@@ -10,6 +10,7 @@ import img08 from "../img/img-08.png";
 import img09 from "../img/img-09.png";
 import img10 from "../img/img-10.png";
 import img11 from "../img/img-11.jpg";
+import img12 from "../img/img-12.jpg";
 import fig01 from "../img/figma-01.png";
 import fig02 from "../img/figma-02.png";
 import fig03 from "../img/figma-03.jpeg";
@@ -28,6 +29,7 @@ const data = [
   { id: 4, category: "Ecom", title: "SkinCare Store", desc: "Skins Nutrition Skincare: #1 Online Skin Care Store", icon: img08, link: "https://skinsnutritionskincare.com/"},
   { id: 5, category: "Ecom", title: "Sneakers Store", desc: "REATIVE CUSTOM FASHIONS", icon: img09, link: "https://creativecustomfashions.com/"},
   { id: 6, category: "Ecom", title: "Lipstick Store", desc: "Metallic Soul: #1 Lip Glosses Store in Aurora, IL", icon: img10, link: "https://metallic-soul.com/"},
+  { id: 15, category: "Ecom", title: "Glasses Store", desc: "Optical Solutions — Fully Responsive Multi-Category Vision Store", icon: img11, link: "https://peachmartclone.techylance.com/"},
 
   // Business
   { id: 7, category: "business", title: "Catering Website", desc: "Linda's Best Hotdog & Catering in Las Vegas", icon: img07, link: "https://lindascart.com/"},
