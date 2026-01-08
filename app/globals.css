@@ -275,6 +275,11 @@ header {
   pointer-events: none
 }
 
+.exp-box{
+  display: flex;
+  flex-direction: row;
+}
+
 .mock .phone,
 .mock .card {
   border-radius: 18px;
