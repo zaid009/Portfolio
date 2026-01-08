@@ -7,6 +7,7 @@ const Experience = () => {
           <h2 className="title">Work <span className="accent">Experience</span></h2>
         </div>
         <div className="container">
+          <div className='exp-box'> 
           <div className="card" style={{ margin: '28px auto', maxWidth: '760px' }}>
             <div className="grid" style={{ gap: '8px' }}>
               <div className="grid" style={{ gap: '6px' }}>
@@ -40,6 +41,7 @@ const Experience = () => {
                 <li>Created structured video tutorials to support independent client site management.</li>
               </ul>
             </div>
+          </div>
           </div>
         </div>
       </section>
